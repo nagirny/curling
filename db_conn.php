@@ -3,7 +3,7 @@
 return [
     'host' => "localhost",
 	'user' => 'smart',
-    'password' => 'QAZWSXedc',
+    'password' => '***',
     'database' => 'curling'
 	];
 ?>
